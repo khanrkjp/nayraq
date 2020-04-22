@@ -137,7 +137,7 @@
         CSS Framework <a href="http://foundation.zurb.com/" target="_blank">Foundation</a>  |
         Built on <a href="http://www.sublimetext.com/2" target="_blank">Sublime Text 2</a>
       </p>
-        Built on <a href="https://twitter.com/1kRaqeeb?s=08" target="_blank">Sublime Text 2</a>
+        Built on <a href="https://twitter.com/1kRaqeeb?s=08"
     </div>
   </footer>
   <!-- Footer ends here-->
@@ -147,7 +147,7 @@
   $("body").backTotop({
     isWindow: true,
     text: "TOP <i class='icon-angle-up icon-1x'></i>",
-    cssClass: "flipkart",
+    cssClass: "nayraq",
     buttonPos: {
       bottom: 50,
       right: 0
