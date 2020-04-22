@@ -54,7 +54,7 @@
         <li><a href="how-to-use.html" class="">How to use</a></li>
         <li><a href="examples.html" class="current">Examples</a></li>
       </ul>
-      <div class="tools"><a target="_blank" href="https://github.com/websiddu/backTotop/archive/master.zip" class="radius button secondary"><i class="icon-download icon-2x"></i>Download</a><a target="_blank" href="https://github.com/websiddu/backTotop" class="radius button secondary"><i class="icon-github icon-2x"></i>Fork it</a><span class="seperator"></span><a href="http://twitter.com/websiddu"><i class="icon-twitter icon-1x"></i>@websiddu</a></div>
+      <div class="tools"><a target="_blank" href="https://github.com/websiddu/backTotop/archive/master.zip" class="radius button secondary"><i class="icon-download icon-2x"></i>Download</a><a target="_blank" href="https://github.com/websiddu/backTotop" class="radius button secondary"><i class="icon-github icon-2x"></i>Fork it</a><span class="seperator"></span><a href="http://twitter.com/websiddu"><i class="icon-twitter icon-1x"></i>@1kraqeeb</a></div>
     </nav>
     <hr/>
   </header>
