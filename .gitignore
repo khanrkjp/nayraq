@@ -1,4 +1,4 @@
-# Built application files
+# html
 *.apk
 *.aar
 *.ap_
@@ -38,9 +38,9 @@ captures/
 
 # IntelliJ
 *.iml
-.idea/workspace.xml
-.idea/tasks.xml
-.idea/gradle.xml
+.idea/about.xml
+.idea/services.xml
+.idea/prices.xml
 .idea/assetWizardSettings.xml
 .idea/dictionaries
 .idea/libraries
